@@ -1,2 +1,1 @@
-print('ola mundo')
-print('ola')
+print('hello word')
